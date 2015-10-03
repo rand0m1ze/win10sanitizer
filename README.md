@@ -1,5 +1,6 @@
 # win10sanitizer v1
 Fix Windows 10 Privacy Issues
+
 Small Visual Basic script i made to "sanitize" the normal M$ threats
 
 Get the standalone here
