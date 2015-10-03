@@ -1,0 +1,13 @@
+C:\Users\LuckyPCsolutions\Documents\Visual Studio 2015\Projects\Windows 10 Sanitizer\Windows 10 Sanitizer\obj\Debug\Windows 10 Sanitizer.vbprojResolveAssemblyReference.cache
+C:\Users\LuckyPCsolutions\Documents\Visual Studio 2015\Projects\Windows 10 Sanitizer\Windows 10 Sanitizer\obj\Debug\Windows_10_Sanitizer.Form1.resources
+C:\Users\LuckyPCsolutions\Documents\Visual Studio 2015\Projects\Windows 10 Sanitizer\Windows 10 Sanitizer\obj\Debug\Windows_10_Sanitizer.host.resources
+C:\Users\LuckyPCsolutions\Documents\Visual Studio 2015\Projects\Windows 10 Sanitizer\Windows 10 Sanitizer\obj\Debug\Windows_10_Sanitizer.Resources.resources
+C:\Users\LuckyPCsolutions\Documents\Visual Studio 2015\Projects\Windows 10 Sanitizer\Windows 10 Sanitizer\obj\Debug\Windows_10_Sanitizer.services.resources
+C:\Users\LuckyPCsolutions\Documents\Visual Studio 2015\Projects\Windows 10 Sanitizer\Windows 10 Sanitizer\obj\Debug\Windows 10 Sanitizer.vbproj.GenerateResource.Cache
+C:\Users\LuckyPCsolutions\Documents\Visual Studio 2015\Projects\Windows 10 Sanitizer\Windows 10 Sanitizer\obj\Debug\Windows 10 Sanitizer.exe
+C:\Users\LuckyPCsolutions\Documents\Visual Studio 2015\Projects\Windows 10 Sanitizer\Windows 10 Sanitizer\obj\Debug\Windows 10 Sanitizer.xml
+C:\Users\LuckyPCsolutions\Documents\Visual Studio 2015\Projects\Windows 10 Sanitizer\Windows 10 Sanitizer\obj\Debug\Windows 10 Sanitizer.pdb
+C:\Users\LuckyPCsolutions\Documents\Visual Studio 2015\Projects\Windows 10 Sanitizer\Windows 10 Sanitizer\bin\Debug\Windows 10 Sanitizer.exe.config
+C:\Users\LuckyPCsolutions\Documents\Visual Studio 2015\Projects\Windows 10 Sanitizer\Windows 10 Sanitizer\bin\Debug\Windows 10 Sanitizer.exe
+C:\Users\LuckyPCsolutions\Documents\Visual Studio 2015\Projects\Windows 10 Sanitizer\Windows 10 Sanitizer\bin\Debug\Windows 10 Sanitizer.pdb
+C:\Users\LuckyPCsolutions\Documents\Visual Studio 2015\Projects\Windows 10 Sanitizer\Windows 10 Sanitizer\bin\Debug\Windows 10 Sanitizer.xml
